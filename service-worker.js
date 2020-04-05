@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-hrithik-somani/precache-manifest.24d29c220fce2aef28b39e145fc596bc.js"
+  "/Crio-Launch-Feb-2020-hrithik-somani/precache-manifest.4a0f8e4063b0dd300d0a5ea868b347cf.js"
 );
 
 self.addEventListener('message', (event) => {
